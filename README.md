@@ -1,6 +1,6 @@
-# Events Front
+# COMMERCE SYSTEM FRONTEND
 
-El siguiente proyecto posee las UI de eventos.
+El siguiente proyecto posee las UI de un sistema de órdenes de compra con usuarios y productos.
 
 ### Requerimientos de software
 
@@ -28,7 +28,7 @@ Cambiar {url de api} por la url correspondiente.
 
 ```bash
 
-VITE_EVENT_API=http://localhost:8000/api/  por  ejemplo
+VITE_EVENT_API=http://localhost:3000/api/  por  ejemplo
 
 ```
 
@@ -36,7 +36,7 @@ VITE_EVENT_API=http://localhost:8000/api/  por  ejemplo
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/ingestebancorrea/events-manegement-front.git
+   git clone https://github.com/ingestebancorrea/commerce-system-fe.git
 
 2. Instalación de Dependencias
     Después de clonar el repositorio y realizar la configuración previa, instala las dependencias del proyecto ejecutando el siguiente comando en tu terminal dentro del directorio del proyecto:
@@ -47,9 +47,6 @@ VITE_EVENT_API=http://localhost:8000/api/  por  ejemplo
 3. Ejecutar proyecto con el siguiente comando:
     ```bash
     npm run dev
-
-# Enlace explicación de front + integración con back
-https://drive.google.com/file/d/1ZvOKWc5FfpPL3ei7AXjeikNjmJM-EbND/view?usp=sharing
 
 # Licencia
 Este proyecto está bajo la Licencia MIT.
